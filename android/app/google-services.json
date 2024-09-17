@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56222954756",
+    "project_id": "tsclengineer",
+    "storage_bucket": "tsclengineer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56222954756:android:02ddd5cce4e4d263b08c51",
+        "android_client_info": {
+          "package_name": "com.tsclengineer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcrCvPpFhXjVleGN17JoP5DGOCtWpml2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
